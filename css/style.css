@@ -209,7 +209,7 @@ nav1 a:focus {
 }
 /*-- //Effect 11 --*/
 .banner-info {
-    margin-top: 13em;
+    margin-top: 5em;
     text-align: center;
 }
 .logo-text h3 {
@@ -295,7 +295,8 @@ nav1 a:focus {
 }
 /*-- //banner-bottom --*/
 .about-left h3 {
-    color: #000;
+    /*color: #000;*/
+    color: #191970;
     font-size: 37px;
     border-right: 3px solid #8c8700;
     margin-top: 10px;
@@ -305,7 +306,8 @@ nav1 a:focus {
     padding: 90px 0;
 }
 .about-right p{
-	color:#464646;
+	/*color:#464646;*/
+        color: #6495ED;
 	font-size:14px;
 	line-height:2.2em;
 }
@@ -542,7 +544,8 @@ img.zoom-img:hover {
     margin-bottom: 12px;
 }
 .simple{
-    background: url(../images/33.jpg) no-repeat 0px 50px;
+    /*background: url(../images/33.jpg) no-repeat 0px 50px;*/
+    background-color: #B0E0E6;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -552,13 +555,15 @@ img.zoom-img:hover {
 	padding-top:185px;
 }
 .simple h3 {
-    color: #fff;
+    /*color: #fff;*/
+    color:#006400;
     font-size: 47px;
     text-align: center;
     line-height: 1.5em;
 }
 .simple p {
-    color: #B9B9B9;
+    /*color: #B9B9B9;*/
+    color:#008800;
     line-height: 2.2em;
     text-align: center;
     font-size: 14px;
@@ -659,7 +664,8 @@ background:#f7f7f7;
 }
 
 .capabilities{
-    background: url(../images/33.jpg) no-repeat 0px 50px;
+    /*background: url(../images/33.jpg) no-repeat 0px 50px;*/
+    background-color: #B0E0E6;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -740,12 +746,14 @@ background:#f7f7f7;
     border: 4px dashed #8c8700;
 }
 .capabil-grid h5 {
-    color: #fff;
+    /*color: #fff;*/
+    color:  #006400;
     font-size: 21px;
     margin: 0px 0;
 }
 .numscroller {
-    color: #C5C5C5;
+    /*color: #C5C5C5;*/
+    color:  #006400;
     font-size: 64px;
     margin: 11px 0;
 }
