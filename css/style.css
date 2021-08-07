@@ -757,6 +757,9 @@ background:#f7f7f7;
     font-size: 64px;
     margin: 11px 0;
 }
+.div-since-size {
+    font-size: 64px;
+}
 /*--contact--*/
 .login-pad form input[type="text"] {
 border:1px solid #ddd;
@@ -1522,6 +1525,9 @@ div#contact {
 	.numscroller {
 		font-size: 51px;
 	}
+	.div-since-size {
+	    	font-size: 51px;
+	}
 	.gallery {
 		padding: 64px 0;
 	}
@@ -1659,6 +1665,9 @@ div#contact {
 	}
 	.numscroller {
 		font-size: 41px;
+	}
+	.div-since-size {
+	    	font-size: 41px;
 	}
 	.capabilities {
 		min-height: 380px;
@@ -1902,6 +1911,9 @@ div#contact {
 	.numscroller {
 		font-size: 36px;
 	}
+	.div-since-size {
+	    	font-size: 36px;
+	}
 	.hi-icon-effect-4 .hi-icon.icon3,.hi-icon-effect-4 .hi-icon.icon2,.hi-icon-effect-4 .hi-icon.icon1,.hi-icon-effect-4 .hi-icon.icon4 {
 		width: 79px;
 		height: 79px;
@@ -1987,6 +1999,9 @@ div#contact {
 	}
 	.numscroller {
 		font-size: 27px;
+	}
+	.div-since-size {
+	    	font-size: 27px;
 	}
 	.capabil-grid h5 {
 		font-size: 15px;
@@ -2104,6 +2119,9 @@ div#contact {
 	}
 	.numscroller {
 		font-size: 35px;
+	}
+	.div-since-size {
+	    	font-size: 35px;
 	}
 	.capabilities {
 		min-height: 522px  ;
@@ -2238,6 +2256,9 @@ div#contact {
 	}
 	.numscroller {
 		font-size: 28px;
+	}
+	.div-since-size {
+	    	font-size: 28px;
 	}
 	.bottom-gds {
 		float: none;
